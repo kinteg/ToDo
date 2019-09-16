@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Todo</string>
     <string name="add">Add</string>
+    <string name="name">Имя заявки</string>
+    <string name="desc">Описание</string>
+    <string name="save">Сохранить</string>
 </resources>
